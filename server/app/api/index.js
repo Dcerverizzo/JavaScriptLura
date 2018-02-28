@@ -1,5 +1,4 @@
 /* Código simplório, apenas para fornecer o serviço para a aplicação */
-
 var api = {}
 
 var dataAtual = new Date();
